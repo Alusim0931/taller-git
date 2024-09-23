@@ -3,3 +3,4 @@ hola
 bienvenido
 hasta luego
 buenos dias
+buenas tardes
