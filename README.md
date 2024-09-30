@@ -1,4 +1,4 @@
-# Curso de Git, Septiembre 2024
+# Curso de Git, Septiembre
 
 Este proyecto contiene el curso de introducción a GIT del Aula de Software Libre.
 
